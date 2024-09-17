@@ -1,0 +1,60 @@
+<i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star-half-stroke"></i>
+            </div>
+        </div>
+        <div class="rev2 rev">
+            <img src="http://ydirection.com/Root/assets/icons/review-2.png" alt="">
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem omnis sint minima neque pariatur tenetur quod consectetur tempore culpa!</p>
+            <p class="rev-name">-Neil Harris</p>
+            <p class="rev-name">President Proton LLC</p>
+            <div class="rating">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+            </div>
+        </div>
+        <div class="rev3 rev">
+            <img src="http://ydirection.com/Root/assets/icons/review-3.png" alt="">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae fugit consequatur quibusdam repellendus, dicta cupiditate expedita.</p>
+            <p class="rev-name">-Alison Burgers</p>
+            <p class="rev-name">CEO Marga Holdings</p>
+            <div class="rating">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+            </div>
+        </div>
+    </div>
+
+    <div id="pricing">
+        <div class="pricing-img">
+            <img src="product-mirrored.png">
+        </div>
+        <div class="pricing-info">
+            <h1>MI VIRTUAL</h1>
+            <p>Made with precision to give absolute comfort and<br> great experience. Get your own Mi today.</p>
+            <h1>Color</h1>
+            <div class="colors">
+                <i class="fa-solid fa-square" style="color: #c7c7c7;"></i>
+                <i class="fa-solid fa-square" style="color: #000000;"></i>
+                <i class="fa-solid fa-square" style="color: #5c5c5c;"></i>
+            </div>
+            <h2>$299.99</h2>
+            <p>Free Worldwide Shipping <br>
+               30-day Return Policy</p>
+            <a href="#" class="amazon"><img src="http://ydirection.com/Root/assets/icons/amazon.png"></a>
+        </div>
+    </div>
+
+    <div class="copyrights">
+        <p>© 2017 YDirection Themes by IOThemes</p>
+    </div>
+</body>
+</html>
